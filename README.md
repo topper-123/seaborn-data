@@ -1,4 +1,4 @@
-seaborn-data
+tensortable-data
 ============
 
-Data repository for seaborn examples
+Data repository for tensor table examples. Forked from https://github.com/mwaskom/seaborn-data/
